@@ -19,7 +19,6 @@ class _LoadingState extends State<Loading> {
             },
             icon: Icon(Icons.home),
             label: Text("Home"),
-            label: Text("Home button hai"),
           ),
         ],),
       ),
