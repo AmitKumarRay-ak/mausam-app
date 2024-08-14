@@ -18,6 +18,7 @@ class _LoadingState extends State<Loading> {
               Navigator.pushNamed(context, "/home");
             },
             icon: Icon(Icons.home),
+            label: Text("Home"),
             label: Text("Home button hai"),
           ),
         ],),
